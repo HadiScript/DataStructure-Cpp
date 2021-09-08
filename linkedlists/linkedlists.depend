@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610965588 source:c:\users\hp\desktop\algorithms\linkedlists\main.cpp
+	"node.h"
+	<iostream>
+
+1610965417 c:\users\hp\desktop\algorithms\linkedlists\include\node.h
+
+1610965111 source:c:\users\hp\desktop\algorithms\linkedlists\src\node.cpp
+	"node.h"
+	<iostream>
+

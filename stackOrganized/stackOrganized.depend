@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614106577 source:c:\users\hp\desktop\algorithms\stackorganized\main.cpp
+	<iostream>
+	"node.h"
+	"stacked.h"
+
+1614106291 c:\users\hp\desktop\algorithms\stackorganized\include\node.h
+
+1614106310 source:c:\users\hp\desktop\algorithms\stackorganized\src\node.cpp
+
+1614106636 c:\users\hp\desktop\algorithms\stackorganized\include\stacked.h
+	<cstring>
+	<iostream>
+	"node.h"
+

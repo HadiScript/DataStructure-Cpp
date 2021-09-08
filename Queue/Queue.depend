@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1612165890 source:c:\users\hp\desktop\algorithms\queue\main.cpp
+	<iostream>
+	"QueueLinked.h"
+
+1612161521 source:c:\users\hp\desktop\algorithms\queue\simple.cpp
+
+1612165076 source:c:\users\hp\desktop\algorithms\queue\src\queuearr.cpp
+	"QueueArr.h"
+
+1612165112 c:\users\hp\desktop\algorithms\queue\include\queuearr.h
+	<iostream>
+
+1612165726 c:\users\hp\desktop\algorithms\queue\include\queuelinked.h
+	<iostream>
+
+1612165813 source:c:\users\hp\desktop\algorithms\queue\src\queuelinked.cpp
+	"QueueLinked.h"
+

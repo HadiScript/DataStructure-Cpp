@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610355511 source:c:\users\hp\desktop\algorithms\graph\dfs\main.cpp
+	<iostream>
+
+1610361232 source:c:\users\hp\desktop\algorithms\graph\bfs\runing.cpp
+	<iostream>
+

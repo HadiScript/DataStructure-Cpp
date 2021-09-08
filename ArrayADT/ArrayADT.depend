@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611748970 source:c:\users\hp\desktop\algorithms\arrayadt\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611553507 source:c:\users\hp\desktop\algorithms\linkedlists\doublylinkedlist\doublylinkedlist\main.cpp
+	"node.h"
+	<iostream>
+
+1611553149 c:\users\hp\desktop\algorithms\linkedlists\doublylinkedlist\doublylinkedlist\include\node.h
+	<iostream>
+
+1611553465 source:c:\users\hp\desktop\algorithms\linkedlists\doublylinkedlist\doublylinkedlist\src\node.cpp
+	"node.h"
+	<iostream>
+

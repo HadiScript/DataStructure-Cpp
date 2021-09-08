@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610983456 source:c:\users\hp\desktop\algorithms\linkedlists\circularlinkedlist\main.cpp
+	"node.h"
+	<iostream>
+
+1610982641 c:\users\hp\desktop\algorithms\linkedlists\circularlinkedlist\include\node.h
+
+1610983354 source:c:\users\hp\desktop\algorithms\linkedlists\circularlinkedlist\src\node.cpp
+	"node.h"
+	<iostream>
+
